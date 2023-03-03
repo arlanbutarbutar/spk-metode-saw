@@ -1,4 +1,3 @@
-
 <?php require_once("../controller/script.php");
 require_once("redirect.php");
 $_SESSION["page-name"] = "Dashboard";

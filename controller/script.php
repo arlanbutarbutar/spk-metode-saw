@@ -1,4 +1,3 @@
-
 <?php
 error_reporting(~E_NOTICE & ~E_DEPRECATED);
 if (!isset($_SESSION[""])) {

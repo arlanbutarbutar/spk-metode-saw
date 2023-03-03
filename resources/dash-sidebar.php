@@ -1,4 +1,3 @@
-
 <nav class="sidebar sidebar-offcanvas shadow" style="background-color: rgb(3, 164, 237);" id="sidebar">
   <ul class="nav">
     <li class="nav-item">
